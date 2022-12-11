@@ -25,5 +25,16 @@ function areaLargestSquare(r) {
 }
 ```
 
+## Education
+
+* 2009-2013: Kyrgyz-Russian Slavic University, Department of economics, Specialization: management . 
+
+
+
+## Languages
+
+* English: *Pre-intermediate(B2)*
+
+
 
 
