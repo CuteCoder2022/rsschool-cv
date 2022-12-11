@@ -4,3 +4,11 @@ Junior Front-End Developer
 
 ## Contact information:
 ***jamikotoichik2013@gmail.com*** 
+
+
+## About me
+
+ I enjoy creating apps and web pages. Always passionate about learning new stuff, improving my skills, diving deeper into front-end development. 
+
+
+
