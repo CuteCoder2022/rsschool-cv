@@ -7,8 +7,12 @@ Junior Front-End Developer
 
 
 ## About me
-
  I enjoy creating apps and web pages. Always passionate about learning new stuff, improving my skills, diving deeper into front-end development. 
 
+
+## Skills
+- *HTML5* 
+- *CSS3* 
+- *JavaScript*
 
 
