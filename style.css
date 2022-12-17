@@ -145,3 +145,16 @@ h3 {
     justify-content: space-around;
     align-items: center;
 }
+#education:hover,
+#contacts:hover,
+#projects:hover,
+#skills:hover,
+#code:hover,
+#english:hover  {
+    color:aqua;
+    background: rgb(14, 13, 13);
+    border-radius: 12px;
+}
+.mycv:hover{
+   color: greenyellow;
+}
