@@ -2,7 +2,6 @@ html {
     scroll-behavior: smooth;
 }
 
-
 * {
     box-sizing: border-box;
 }
@@ -19,6 +18,7 @@ body {
     padding: 0;
 
 }
+
 .header_container {
     display: flex;
     height: 90px;
@@ -26,7 +26,7 @@ body {
     margin: 0 auto;
 }
 
-.header_nav{
+.header_nav {
     display: flex;
     width: 100%;
     height: 100%;
@@ -41,7 +41,7 @@ body {
     align-items: center;
     justify-content: space-between;
     list-style: none;
-    border: 1px solid #0cec2a ;
+    border: 1px solid #0cec2a;
 }
 
 .nav_item a {
@@ -52,6 +52,7 @@ body {
     font-size: 18px;
 
 }
+
 .nav_item a:hover {
     color: #2cf70d
 }
@@ -70,18 +71,22 @@ h3 {
     max-width: 1440px;
     margin: 0 auto;
 }
+
 .section {
     width: 50%;
     border-bottom: 1px solid #40f00b;
 }
-.me{
+
+.me {
     width: 40%;
 }
+
 .text_profile:hover {
     color: #19ed32;
     transition: 0.8s;
     cursor: pointer;
 }
+
 .title_profile {
     display: flex;
     margin-top: 50px;
@@ -90,6 +95,7 @@ h3 {
     align-items: center;
 
 }
+
 .info_profile {
     display: flex;
     justify-content: space-between;
@@ -111,6 +117,7 @@ h3 {
     text-decoration: none;
     color: white
 }
+
 .link_contact:hover {
     color: #42e415;
     transition: 0.5s;
@@ -127,8 +134,8 @@ h3 {
 
 .text_skills:hover {
     color: #03f851;
-    transition: 0,8s;
-} 
+    transition: 0, 8s;
+}
 
 .code_example {
     color: white;
@@ -145,16 +152,18 @@ h3 {
     justify-content: space-around;
     align-items: center;
 }
+
 #education:hover,
 #contacts:hover,
 #projects:hover,
 #skills:hover,
 #code:hover,
-#english:hover  {
-    color:aqua;
+#english:hover {
+    color: aqua;
     background: rgb(14, 13, 13);
     border-radius: 12px;
 }
-.mycv:hover{
-   color: greenyellow;
+
+.mycv:hover {
+    color: greenyellow;
 }
