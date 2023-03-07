@@ -33,7 +33,7 @@ function areaLargestSquare(r) {
 
 ## Languages
 
-* English: *Pre-intermediate(B2)*
+* English: *Intermediate(B1)*
 
 
 
